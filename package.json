@@ -1,7 +1,7 @@
 {
   "name": "six-cities",
   "version": "14.0.0",
-  "homepage": "http://Evgeny-Mufteev.github.io/1850191-six-cities-14",
+  "homepage": "https://Evgeny-Mufteev.github.io/six-cities",
   "type": "module",
   "scripts": {
     "start": "vite",
