@@ -27,8 +27,8 @@ export const cityList = [
 ];
 
 export const MapMarkerSVG = {
-  DEFAULT: '../../markup/img/pin.svg',
-  CURRENT: '../../markup/img/pin-active.svg',
+  DEFAULT: 'img/pin.svg',
+  CURRENT: 'img/pin-active.svg',
 } as const;
 
 export const SortingMap = {
